@@ -7,6 +7,12 @@ The MCP exposes a **tool** configured to launch commands for [**Samsung TV**](ht
 
 ## Local running
 
+Create the virtual env:
+
+```bash
+uv install
+```
+
 Run the MCP inspector locally:
 
 ```bash
